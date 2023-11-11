@@ -1,2 +1,4 @@
 # Python-Learning-Program
-A program made to teach about python coding, syntaxis and other elements.
+This program provides the user with the option to review Python in three different ways. The first option allows the user to review syntax on various topics such as conditionals and loops, initially through specific questions and then by prompting the user to write a simple code complying with the syntax. The next option consists of a series of randomly generated multiple-choice questions, with the number of questions determined by the user. The last option is a hangman game using Python's reserved words to incorporate the topic of strings.
+
+For the text file topic, I used CSV (comma-separated values) files for a login function, enabling the creation of accounts with a username and password. The program verifies the existence of the user to proceed to the subsequent functions.
